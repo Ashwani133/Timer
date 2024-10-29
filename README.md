@@ -22,3 +22,7 @@ git clone <your-repo-url><br />
 cd react-timer-app<br />
 npm install<br />
 npm run dev<br />
+
+**Preview**<br />
+<br />
+![Screenshot 2024-10-29 221037](https://github.com/user-attachments/assets/16f5e7f7-1379-4cf2-91d6-d356650d7ab4)
