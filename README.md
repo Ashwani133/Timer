@@ -1,26 +1,24 @@
-**React Timer App**
-A simple and interactive timer application built with React. This app allows users to set, start, stop, and reset a timer, providing a user-friendly interface for time management.
+**React Timer App**<br />
+A simple and interactive timer application built with React. This app allows users to set, start, stop, and reset a timer, providing a user-friendly interface for time management.<br />
 
-**Technologies Used**
-React
-JavaScript 
-CSS 
+**Technologies Used**<br />
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,vite)](https://skillicons.dev)<br />
 
-**State Management:**
-Understanding how to manage component state effectively using React's **useState and useEffect hooks**.
+**State Management:**<br />
+Understanding how to manage component state effectively using React's useState and useEffect hooks.<br />
 
-**Component Lifecycle:**
-Gaining insight into the component lifecycle and how to use hooks like useEffect to handle side effects.
+**Component Lifecycle:**<br />
+Gaining insight into the component lifecycle and how to use hooks like useEffect to handle side effects.<br />
 
-**Event Handling:**
-Learning to handle different types of events, such as onChange, onClick, and onKeyDown, to create a dynamic and interactive app.
+**Event Handling:**<br />
+Learning to handle different types of events, such as onChange, onClick, and onKeyDown, to create a dynamic and interactive app.<br />
 
-**CSS Styling:**
-Experimenting with CSS to create an appealing layout and understanding the differences between inline styles and external stylesheets
+**CSS Styling:**<br />
+Experimenting with CSS to create an appealing layout and understanding the differences between inline styles and external stylesheets<br />
 
 
-**installation**
-git clone <your-repo-url>
-cd react-timer-app
-npm install
-npm run dev
+**installation**<br />
+git clone <your-repo-url><br />
+cd react-timer-app<br />
+npm install<br />
+npm run dev<br />
